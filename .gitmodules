@@ -5,3 +5,16 @@
 [submodule "MetAlyzer"]
 	path = MetAlyzer
 	url = https://github.com/lu-group-ukhd/metalyzer
+[submodule "MetaProViz"]
+	path = MetaProViz
+	url = https://github.com/saezlab/MetaProViz
+	registered = false
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/saezlab/OmnipathR
+	branch = devel
+	registered = false
+[submodule "cosmosR"]
+	path = cosmosR
+	url = https://github.com/saezlab/cosmosR
+	registered = false

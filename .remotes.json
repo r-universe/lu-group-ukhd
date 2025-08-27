@@ -1,0 +1,21 @@
+[
+  {
+    "package": "MetaProViz",
+    "url": "https://github.com/saezlab/MetaProViz",
+    "via": ["MetAlyzer"],
+    "from": "MetAlyzer"
+  },
+  {
+    "package": "OmnipathR",
+    "url": "https://github.com/saezlab/OmnipathR",
+    "via": ["MetAlyzer", "MetaProViz"],
+    "branch": "devel",
+    "from": "MetAlyzer"
+  },
+  {
+    "package": "cosmosR",
+    "url": "https://github.com/saezlab/cosmosR",
+    "via": ["MetAlyzer", "MetaProViz"],
+    "from": "MetAlyzer"
+  }
+]
